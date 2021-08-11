@@ -24,6 +24,7 @@ module Generics.SOP.Record
   , ExtractTypesFromRecordCode
   , ExtractLabelsFromRecordCode
   , RecombineRecordCode
+  , ToRecordCode_Datatype
     -- * Conversion between a type and its record representation.
   , toRecord
   , fromRecord
